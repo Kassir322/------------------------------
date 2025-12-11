@@ -8,9 +8,6 @@ import Slide7 from './Slide7'
 import Slide8 from './Slide8'
 import Slide9 from './Slide9'
 import Slide10 from './Slide10'
-import Slide11 from './Slide11'
-import Slide12 from './Slide12'
-import Slide13 from './Slide13'
 
 export default function Home() {
 	return (
@@ -25,9 +22,6 @@ export default function Home() {
 			<Slide8 />
 			<Slide9 />
 			<Slide10 />
-			<Slide11 />
-			<Slide12 />
-			<Slide13 />
 		</main>
 	)
 }

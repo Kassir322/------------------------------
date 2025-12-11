@@ -19,7 +19,7 @@ export default function Slide1() {
 					<p className="text-xl mb-3">
 						Северо-Кавказский федеральный университет
 					</p>
-					<p className="text-lg text-gray-600">Ставрополь, 2024</p>
+					<p className="text-lg text-gray-600">Ставрополь, 2025</p>
 				</div>
 			</div>
 		</div>
