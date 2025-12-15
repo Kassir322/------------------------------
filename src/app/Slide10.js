@@ -17,7 +17,7 @@ export default function Slide10() {
 				</div>
 
 				<div className="bg-white/10 backdrop-blur-sm p-6 rounded-xl text-white">
-					<p className="text-lg">Северо-Кавказский федеральный университет</p>
+					<p className="text-lg">Северо-Кавказский Федеральный Университет</p>
 					<p className="text-lg">Ставрополь, 2025</p>
 				</div>
 			</div>

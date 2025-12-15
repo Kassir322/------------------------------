@@ -15,9 +15,10 @@ export default function Slide1() {
 				</h1>
 
 				<div className="bg-[#f3f5f7] p-8 rounded-xl inline-block mx-auto mt-12 text-black">
-					<p className="text-xl mb-3">Выполнил: Студент группы ПМИ-м-о-25-1</p>
+					<p className="text-xl mb-3">Выполнил: Сенцов Дмитрий Сергеевич</p>
+					<p className="text-xl mb-3">Студент группы ПМИ-м-о-25-1</p>
 					<p className="text-xl mb-3">
-						Северо-Кавказский федеральный университет
+						Северо-Кавказский Федеральный Университет
 					</p>
 					<p className="text-lg text-gray-600">Ставрополь, 2025</p>
 				</div>
